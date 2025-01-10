@@ -1,46 +1,10 @@
-    ## Table of Content
+    
 
 ### Introduction
-
-* What is VCS (Version Control System)?
-    
-* What is Git?
-    
-* What is GitHub?
-    
-* Why use Git and GitHub?
-    
-    Difference between Git & GitHub
-    
-    ### Section 1 - GIT
-    
-    * Setting up Git
-        
-    
-    1. Installing Git
-        
-    2. Configuring Git
-        
-    
-    * Basic Git Commands
-        
-    * Common Scenarios & Troubleshooting
-        
-    
-    ### Section 2 - GitHub
-    
-    * Setting up GitHub
-        
-    * GitHub Workflow
-        
-    * Collaboration on GitHub
-        
-    
-    ## Introduction
-    
     ### **What is VCS(Version Control System)?**
     
-    Version control System is a system that records changes to files over time so that you can recall specific versions later. It is a fundamental tool in software development for managing code, tracking changes, and enabling collaboration among team members.
+    Version control System is a system that records changes to files over time so that you can recall specific versions later. It is a fundamental tool in software development for managing code, tracking 
+    changes, and enabling collaboration among team members.
     
     Version Control System provides Key Benefits like Collaboration, **History Tracking**, **Backup**, **Branching and Merging & Code Review.**
     
