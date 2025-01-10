@@ -82,11 +82,14 @@
         
         * Visit [https://git-scm.com/downloads](https://git-scm.com/downloads). and click on “Download for Windows“.
             
-            ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736427107224/58eab5a7-9647-4e53-ae96-374eca9ab23c.png align="center")
+            ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736427107224/58eab5a7-9647-4e53-ae96-374eca9![g1](https://github.com/user-attachments/assets/51fd2a71-50dc-49f7-9640-ac54a194ae29)
+ab23c.png align="center")
             
-            ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736427432489/599e12da-523f-41b9-9257-59d9c646e7e8.png align="center")
+            ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736427432489/599e12da-523f-41b9-9257-59d9c6![g2](https://github.com/user-attachments/assets/d9f87d10-9abc-477a-bc84-a9d22f7a20ed)
+46e7e8.png align="center")
             
-            ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736427566825/38e2dc81-40a2-45d0-aba5-9e8ceeb2ba7c.png align="center")
+            ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736427566825/38e2dc81-40a2-45d0-aba5-9e8ceeb![g3](https://github.com/user-attachments/assets/6333fd6a-bb0a-4c3a-9a77-effe8f5cf751)
+2ba7c.png align="center")
             
     2. **Run the Installer**:
         
@@ -653,7 +656,8 @@
                     
                 * Follow the verification process to complete account creation.
                     
-                    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736481893521/1d0baa24-3506-47b3-bc35-174c917720cd.png align="center")
+                    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736481893521/1d0baa24-3506-47b3-bc35-174c9177![g4](https://github.com/user-attachments/assets/6033e917-8919-42b8-856d-ca3fc66045d2)
+20cd.png align="center")
                     
             2. **Configure SSH Key (optional but Recommended)**:
                 
