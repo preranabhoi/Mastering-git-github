@@ -652,8 +652,8 @@
                     
                 * Follow the verification process to complete account creation.
                     
-                    ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736481893521/1d0baa24-3506-47b3-bc35-174c9177![g4](https://github.com/user-attachments/assets/6033e917-8919-42b8-856d-ca3fc66045d2)
-20cd.png align="center")
+                   ![g4](https://github.com/user-attachments/assets/e93d976c-de77-4f4a-8cf5-fba31cec8b25)
+
                     
             2. **Configure SSH Key (optional but Recommended)**:
                 
