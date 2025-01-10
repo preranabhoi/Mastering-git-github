@@ -1,3 +1,41 @@
+    ## Table of Content
+
+### Introduction
+
+* What is VCS (Version Control System)?
+    
+* What is Git?
+    
+* What is GitHub?
+    
+* Why use Git and GitHub?
+    
+    Difference between Git & GitHub
+    
+    ### Section 1 - GIT
+    
+    * Setting up Git
+        
+    
+    1. Installing Git
+        
+    2. Configuring Git
+        
+    
+    * Basic Git Commands
+        
+    * Common Scenarios & Troubleshooting
+        
+    
+    ### Section 2 - GitHub
+    
+    * Setting up GitHub
+        
+    * GitHub Workflow
+        
+    * Collaboration on GitHub
+        
+    
     ## Introduction
     
     ### **What is VCS(Version Control System)?**
