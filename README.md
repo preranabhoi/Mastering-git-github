@@ -1,7 +1,7 @@
     
 
 ### Introduction
-    ### **What is VCS(Version Control System)?**
+    ## **What is VCS(Version Control System)?**
     
     Version control System is a system that records changes to files over time so that you can recall specific versions later. It is a fundamental tool in software development for managing code, tracking 
     changes, and enabling collaboration among team members.
