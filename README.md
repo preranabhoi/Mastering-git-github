@@ -82,15 +82,11 @@
         
         * Visit [https://git-scm.com/downloads](https://git-scm.com/downloads). and click on “Download for Windows“.
             
-            ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736427107224/58eab5a7-9647-4e53-ae96-374eca9![g1](https://github.com/user-attachments/assets/51fd2a71-50dc-49f7-9640-ac54a194ae29)
-ab23c.png align="center")
-            
-            ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736427432489/599e12da-523f-41b9-9257-59d9c6![g2](https://github.com/user-attachments/assets/d9f87d10-9abc-477a-bc84-a9d22f7a20ed)
-46e7e8.png align="center")
-            
-            ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736427566825/38e2dc81-40a2-45d0-aba5-9e8ceeb![g3](https://github.com/user-attachments/assets/6333fd6a-bb0a-4c3a-9a77-effe8f5cf751)
-2ba7c.png align="center")
-            
+            ![g1](https://github.com/user-attachments/assets/a19507ac-2d18-4514-94f8-80415edd09fc)
+            ![g2](https://github.com/user-attachments/assets/2108def5-568a-4be1-8f0f-ffc719b9e51a)
+            ![g3](https://github.com/user-attachments/assets/c42b7d68-7546-4487-b1e4-94545bf0b629)
+
+           
     2. **Run the Installer**:
         
         * Locate the downloaded `.exe` file and double-click it to start the installation.
